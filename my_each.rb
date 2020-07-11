@@ -8,4 +8,4 @@ while n < array.length
 end
 end
 
-my_each() {|n| n = n}
+my_each([1,2,3,4]) {|n| n = n}
